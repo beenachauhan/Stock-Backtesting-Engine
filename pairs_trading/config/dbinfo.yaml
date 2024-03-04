@@ -1,0 +1,5 @@
+host: localhost
+user: backtest
+password: 12345
+db_name: securities_master
+db_file: db_created

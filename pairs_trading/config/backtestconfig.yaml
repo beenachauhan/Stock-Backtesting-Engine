@@ -1,0 +1,9 @@
+z_upper_limit: 1.0
+z_lower_limit: 0.0
+short_window: 5
+long_window: 30
+initial_capital: 50000.0
+
+analysis_start_year: 2006
+analysis_end_year: 2017
+trading_folder_suffix: '_5_30'
