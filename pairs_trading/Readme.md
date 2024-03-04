@@ -1,4 +1,3 @@
-# Final year project - Pairs trading with cointegration
 ## Introduction
 ## Requirements
 
